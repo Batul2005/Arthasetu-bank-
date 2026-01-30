@@ -1,0 +1,7 @@
+{
+  "name": "ArthaSetu - Simple Rural Banking",
+  "description": "A multilingual, voice-first mobile banking simulation designed for low-tech and rural users in India, featuring simplified ID systems and friendly guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
